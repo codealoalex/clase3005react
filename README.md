@@ -34,28 +34,6 @@ npm run dev
 
 Luego abre el navegador en la URL que indique Vite (por ejemplo `http://localhost:5173`).
 
-## 📦 Generar versión de producción
-
-```bash
-npm run build
-```
-
-## 🔍 Vista previa de producción
-
-```bash
-npm run preview
-```
-
-Esto levanta un servidor local con la versión optimizada de la aplicación.
-
-## 🧹 Lint
-
-```bash
-npm run lint
-```
-
-Revisa el código con ESLint para detectar problemas de sintaxis y estilo.
-
 ## 📁 Estructura del proyecto
 
 - `src/`
@@ -79,8 +57,3 @@ Revisa el código con ESLint para detectar problemas de sintaxis y estilo.
 - Si necesitas agregar nuevas páginas, crea un nuevo componente en `src/pages/` y registra la ruta en `App.jsx`.
 - Para componentes reutilizables, añade una carpeta propia bajo `src/components/`.
 - Mantén los estilos en archivos `.css` separados junto a cada componente para mayor claridad.
-
-## 📌 Nota
-
-Este repositorio está preparado para desarrollo local inmediato con Vite. Si usas otro gestor de paquetes, adapta los comandos a `pnpm` o `yarn` según tu preferencia.
- 
