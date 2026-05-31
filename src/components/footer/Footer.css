@@ -1,0 +1,18 @@
+.container-footer{
+    position: static;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    padding: 10px 20px;
+    background-color: #ddd;
+}
+.footer-anchor{
+    display: flex;
+    gap: 10px;
+}
+.footer-anchor>a{
+    color: #000;
+    text-decoration: none;
+}

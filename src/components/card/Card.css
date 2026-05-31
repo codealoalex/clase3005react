@@ -1,0 +1,17 @@
+.card-style{
+    border-radius: 0;
+    width: 23rem;
+    max-width: 350px;
+    margin: 0 auto;
+}
+.card-button{
+    width: 100%;
+    padding: 7px 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #07f;
+    color: #fff;
+}
+.card-button-delete{
+    background-color: #8b0000;
+}

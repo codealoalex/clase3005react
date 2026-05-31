@@ -1,0 +1,20 @@
+.container-stats{
+    width: 100%;
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.container-stats>div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container-stats>div>h3{
+    font-size: 3em;
+}

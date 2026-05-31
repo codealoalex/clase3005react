@@ -1,0 +1,9 @@
+.main-home-title{
+    text-align: center;
+    margin: 1em 0;
+}
+.container-cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 10px;
+}

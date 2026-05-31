@@ -1,0 +1,26 @@
+.about-main{
+    min-height: 100dvh;
+    background-image: url("/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: start;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+}
+.about-main-desc{
+    max-width: 500px;
+}
+.about-cards{
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+}
