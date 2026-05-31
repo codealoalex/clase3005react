@@ -1,5 +1,8 @@
 # Cinema App
 
+## Enlace de clase 30-05-26
+https://drive.google.com/file/d/15WSrgDMcBEasKs8L9UlzDGxGS4D5qKSD/view?usp=sharing
+
 Aplicación de ejemplo en React que muestra una interfaz de cine con navegación entre páginas de inicio, información y contacto. Esta guía explica cómo ejecutar el proyecto localmente y qué incluir si deseas colaborar o extender la app.
 
 ## 🚀 Características principales
